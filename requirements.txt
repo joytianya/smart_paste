@@ -1,0 +1,20 @@
+# SmartPaste Requirements
+
+# Core dependencies for macOS
+pyobjc
+
+# Clipboard handling
+pyperclip>=1.8.2
+
+# Keyboard monitoring
+pynput>=1.7.6
+
+# SSH and file transfer
+paramiko>=3.0.0
+scp>=0.14.0
+
+# System process monitoring
+psutil>=5.9.0
+
+# Optional: For image processing (if compression is needed)
+# Pillow>=10.0.0
