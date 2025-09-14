@@ -64,7 +64,9 @@ else
     "iTerm",
     "Hyper",
     "Alacritty",
-    "Wezterm"
+    "Wezterm",
+    "stable",
+    "Warp"
   ],
   "paste_cooldown_ms": 500,
   "ssh_timeout_seconds": 10,

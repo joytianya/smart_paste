@@ -52,7 +52,7 @@ class KeyboardHandler:
         self.intercepted = False
         
         # 配置
-        self.terminal_apps = {'Terminal', 'iTerm2', 'iTerm', 'Hyper', 'Alacritty', 'Wezterm'}
+        self.terminal_apps = {'Terminal', 'iTerm2', 'iTerm', 'Hyper', 'Alacritty', 'Wezterm', 'stable', 'Warp'}
         self.enabled = True
         
         # 防重复触发
